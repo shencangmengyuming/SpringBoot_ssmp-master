@@ -21,5 +21,4 @@ Controller开发— —前后端开发协议制作
 按条件查询
 
 ### 1.2 案例效果
-
-![效果](C:\Users\Summertime\Desktop\效果.PNG)
+![案例效果](%E6%95%88%E6%9E%9C.PNG)
